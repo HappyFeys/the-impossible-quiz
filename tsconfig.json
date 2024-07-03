@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "public",
+        "target": "ES2015",
+        "noEmitOnError": true,
+        "strict": true
+    },
+    "files": [
+        "src/script.ts"
+    ]
+}

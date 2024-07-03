@@ -1,0 +1,45 @@
+{
+    "questions": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "reponse": "Paris"
+      },
+      {
+        "question": "Quel est le plus grand océan du monde ?",
+        "reponse": "Océan Pacifique"
+      },
+      {
+        "question": "Quelle est la plus grande planète du système solaire ?",
+        "reponse": "Jupiter"
+      },
+      {
+        "question": "Qui a écrit 'Les Misérables' ?",
+        "reponse": "Victor Hugo"
+      },
+      {
+        "question": "Quelle est la formule chimique de l'eau ?",
+        "reponse": "H2O"
+      },
+      {
+        "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+        "reponse": "France"
+      },
+      {
+        "question": "Qui a peint la 'Mona Lisa' ?",
+        "reponse": "Léonard de Vinci"
+      },
+      {
+        "question": "Quel est l'élément chimique avec le symbole 'O' ?",
+        "reponse": "Oxygène"
+      },
+      {
+        "question": "Quelle est la vitesse de la lumière en m/s ?",
+        "reponse": "299792458"
+      },
+      {
+        "question": "Quelle est la capitale du Japon ?",
+        "reponse": "Tokyo"
+      }
+    ]
+  }
+  

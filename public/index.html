@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Impossible Quiz</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body class="bg-blue-400 text-white p-4 flex flex-col items-center justify-center h-screen">
+    <h1 class="text-3xl font-bold mb-4">The Impossible Quiz</h1>
+    <div id="username" class="flex flex-col items-center">
+        <p>Enter your username</p>
+        <input type="text" id="username-input" class="rounded px-2 py-1 text-black">
+        <button id="start" class="bg-blue-700 rounded px-2 py-1 mt-3 w-64">Start</button>
+    </div>
+    <div id="question" class="flex flex-col items-center justify-center">
+        <p id="question-text"><!-- Question vient ici --></p>
+        <input type="text" id="answer" class="rounded px-2 py-1 mt-2 text-black w-1/2">
+        <button id="submit" class="bg-blue-700 rounded px-2 py-1 mt-3 w-1/2">Submit</button>
+        <p><span id="vie" class="material-symbols-outlined text-3xl text-red-500 mt-2"></span></p> 
+    </div>
+    <script type="module" src="./script.js"></script>
+</body>
+</html>
